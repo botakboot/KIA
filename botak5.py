@@ -1,5 +1,5 @@
-import ARIFISTIFIK
-from ARIFISTIFIK import *
+import KIA
+from KIA import *
 from akad.ttypes import *
 from multiprocessing import Pool, Process
 from time import sleep
